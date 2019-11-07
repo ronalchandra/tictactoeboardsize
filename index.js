@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
 
     var optionsButton = document.getElementById("options_submit");
